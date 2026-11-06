@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目垃圾清理设计师"
+  short_description: "设计历史测试垃圾清理任务，审核方案并核验收益，由用户转发与批准"
+  default_prompt: "使用 $cleanup-shit 担任项目清理设计师，生成交给执行 AI 的调查提示词；已结束测试默认只留报告，清单经审核和我批准后再执行。"
